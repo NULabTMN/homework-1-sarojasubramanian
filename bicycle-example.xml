@@ -3,7 +3,7 @@
     <id>https://guides.loc.gov/chronicling-america-bicycle-craze</id>
     <results>
       <result>
-	<id>https://www.loc.gov/resource/sn85058130/1889-02-24/ed-1/?sp=6&amp;q=bicycles+safety</id>
+	<id>https://www.loc.gov/resource/sn85058130/1889-02-24/ed-1/?sp=6&amp;amp;q=bicycles+safety</id>
 	<rel>1</rel>
 	<text>THE WORLD ON WHEELS
 The Improvements Made The
@@ -80,7 +80,7 @@ cents Pretty good for a trade paper
     B B</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85058130/1889-03-17/ed-1/?sp=11&amp;q=bicycle+Bicycling+Safeties+safety</id>
+	<id>https://www.loc.gov/resource/sn85058130/1889-03-17/ed-1/?sp=11&amp;amp;q=bicycle+Bicycling+Safeties+safety</id>
 	<rel>1</rel>
 	<text>ASTRIDE THE WHEEL
 Another Plea in Behalf of the
@@ -98,7 +98,7 @@ men and teamsters The wheel has become
 a great factor in social and business econ
 omy as much so in its way as the tele
 graph telephone sewingmachine reaper
-etc It is of fully as much importance t &lt;
+etc It is of fully as much importance t &amp;lt;
 he or she who makes use of it as either of
 the articles mentioned The nonwheel
 manthe man who wastes his time in walk
